@@ -25,12 +25,12 @@ class ParentWindow(Frame):
         root.mainloop()
 
     def generate_webpage():
-        # Get user input from the text entry widget
-        user_input = text_entry.get("1.0", tk.END).strip()
+    # Get user input from the text entry widget
+    user_input = text_entry.get("1.0", tk.END).strip()
     
     if user_input:
-        # Create HTML content with the user input
-        html_content = f"""<!DOCTYPE html>
+    # Create HTML content with the user input
+    html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -43,25 +43,25 @@ class ParentWindow(Frame):
 </body>
 </html>"""
 
-        # Write the HTML content to a file
-        file_path = 'generated_page.html'
-        with open(file_path, 'w') as file:
-            file.write(html_content)
+    # Write the HTML content to a file
+    file_path = 'generated_page.html'
+    with open(file_path, 'w') as file:
+    file.write(html_content)
 
-        # Open the generated web page in a new tab
-        webbrowser.open_new_tab('file://' + os.path.realpath(file_path))
+    # Open the generated web page in a new tab
+    webbrowser.open_new_tab('file://' + os.path.realpath(file_path))
 
-        # Create the main application window
-        root = tk.Tk()
-        root.title("Random Web Page Generator")
+    # Create the main application window
+    root = tk.Tk()
+    root.title("Random Web Page Generator")
 
-        # Create a text entry widget for user input
-        text_entry = tk.Text(root, height=10, width=50)
-        text_entry.pack(pady=20)
+    # Create a text entry widget for user input
+    text_entry = tk.Text(root, height=10, width=50)
+    text_entry.pack(pady=20)
 
-        # Create a button to generate the web page
-        generate_button = tk.Button(root, text="Generate Web Page", command=generate_webpage)
-        generate_button.pack(pady=10)
+    # Create a button to generate the web page
+    generate_button = tk.Button(root, text="Generate Web Page", command=generate_webpage)
+    generate_button.pack(pady=10)
 
     # Start the GUI event loop
     if __name__ == "__main__":
