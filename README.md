@@ -8,7 +8,7 @@ Abstraction<br>
 Encapsulation<br>
 Inheritance<br>
 Polymorphism<br>
-File Transfer<br>
+Check Files GUI<br>
 Phonebook<br>
 Nice Mean Game<br>
 sqlite<br>
