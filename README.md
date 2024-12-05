@@ -11,7 +11,7 @@ Polymorphism<br>
 Check Files GUI<br>
 Phonebook<br>
 Nice Mean Game<br>
-sqlite<br>
+SQLite<br>
 Web Page Generator<br>
 <br>
 <br>
