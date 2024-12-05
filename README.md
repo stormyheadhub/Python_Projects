@@ -20,52 +20,52 @@ Web Page Generator<br>
 <ul>
 <li><b>Abstraction</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A simple project demonstrating abstraction in coding. 
 <br>
 <br>
 <li><b>Encapsulation</b></li>
 <br>
-An interactive game of TicTacToe created with Javascript.
+A simple project demonstrating encapsulation in coding.
 <br>
 <br>
 <li><b>Inheritance</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A simple project demonstrating inheritance in coding. 
 <br>
 <br>
 <li><b>Polymorphism</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A simple project demonstrating polymorphism in coding. 
 <br>
 <br>
-<li><b>File Transfer</b></li>
+<li><b>Check Files GUI</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A short project that checks for file updates using GUI. 
 <br>
 <br>
 <li><b>Phonebook</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+An app for storing contacts with their information. 
 <br>
 <br>
 <li><b>Nice Mean Game</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A game presenting the user with different scenarios and a choice leading to a result of a nice or mean statement.
 <br>
 <br>
-<li><b>Sqlite</b></li>
+<li><b>SQLite</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+A simple project demonstrating the use of SQLite
 <br>
 <br>
 <li><b>Test8</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+ 
 <br>
 <br>
 <li><b>Web Page Generator</b></li>
 <br>
-A simple but attractive calculator created with Javascript. 
+
 <br>
 <br>
  
