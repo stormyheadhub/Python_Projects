@@ -12,7 +12,6 @@ Check Files GUI<br>
 Phonebook<br>
 Nice Mean Game<br>
 sqlite<br>
-Test 8<br>
 Web Page Generator<br>
 <br>
 <br>
@@ -55,17 +54,12 @@ A game presenting the user with different scenarios and a choice leading to a re
 <br>
 <li><b>SQLite</b></li>
 <br>
-A simple project demonstrating the use of SQLite
-<br>
-<br>
-<li><b>Test8</b></li>
-<br>
- 
+A project demonstrating the use of SQLite
 <br>
 <br>
 <li><b>Web Page Generator</b></li>
 <br>
-
+A project allowing the user to generate a web page with custom text.
 <br>
 <br>
  
